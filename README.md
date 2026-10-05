@@ -5,4 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=clojure,nodejs,django,go,kotlin,nextjs,nuxtjs,laravel,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prometheus,docker,kubernetes,ipfs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=prometheus,docker,kubernetes,ipfs,)](https://skillicons.dev)
